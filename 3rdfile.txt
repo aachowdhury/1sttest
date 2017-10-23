@@ -1,1 +1,10 @@
 3rd file added
+total 29
+drwxr-xr-x 1 AzureAD+AhmadChowdhury 4096  0 Oct 23 21:49 ./
+drwxr-xr-x 1 AzureAD+AhmadChowdhury 4096  0 Oct 23 21:15 ../
+drwxr-xr-x 1 AzureAD+AhmadChowdhury 4096  0 Oct 23 22:00 .git/
+-rw-r--r-- 1 AzureAD+AhmadChowdhury 4096 30 Oct 23 21:49 1stfile.txt
+-rw-r--r-- 1 AzureAD+AhmadChowdhury 4096 14 Oct 23 21:48 2ndfile.txt
+-rw-r--r-- 1 AzureAD+AhmadChowdhury 4096 16 Oct 23 21:49 3rdfile.txt
+-rw-r--r-- 1 AzureAD+AhmadChowdhury 4096 46 Oct 23 21:40 desktop.ini
+-rw-r--r-- 1 AzureAD+AhmadChowdhury 4096  9 Oct 23 21:39 README.md
